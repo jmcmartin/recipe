@@ -1,0 +1,118 @@
+body {
+    background-image: url(images/dark_embroidery.jpg)
+}
+h1 {
+    text-align: center;
+    font-family: Impact, Charcoal;
+    color: red;
+    border: 3px solid #990000;
+    font-size: 45px
+}
+h2 {
+    font-size: 35px;
+    font-family: Comic Sans MS;
+    text-align: center;
+    border: 2px solid #66B266;
+    padding-left: 10px;
+    margin: 0 auto;
+    width: 200px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.Huevos {
+    border: 4px dashed yellow;  
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    text-align: center;
+    font-family: Comic Sans MS;
+    margin-top: 30px;
+}
+.Donut {
+    border: 4px solid brown;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-family: Comic Sans MS;
+}
+.Soup{
+    border: 4px dotted red;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Comic Sans MS;
+}
+.Stew {
+    border: 4px dashed yellow;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Comic Sans MS;
+}
+.Cheesecake{
+    border: 4px solid brown;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Comic Sans MS;
+}
+.Tres {
+    border: 4px dotted red;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: Comic Sans MS;
+}
+ul{
+    list-style-position: inside;
+}
+ol{
+     list-style-position: inherit;
+}
+a:hover{
+    color: orange;
+}
+a:clicked{
+     color: purple;   
+}
+li {
+    color: white
+}
+h3 {
+   color: white 
+}
+h4 {
+    color: white
+}
+footer {
+    color: white;
+    font-size: 20px;
+    font-family: Comic Sans MS;
+    
+}
